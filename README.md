@@ -2,6 +2,7 @@
 
 # Prerequisite to proceed further
 
+- you should have installed docker desktop or docker cli in your machine.
 - install rabitmq docker image
 
 ```
